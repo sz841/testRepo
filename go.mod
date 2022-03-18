@@ -1,3 +1,3 @@
-module github.com/TopiaNetwork/go-bls
+module github.com/sz841/testRepo
 
 go 1.17
